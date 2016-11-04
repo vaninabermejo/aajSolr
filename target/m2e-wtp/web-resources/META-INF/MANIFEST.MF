@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+jenkins_build_id: 
+git_commit: 
+jenkins_build_tag: 
+jenkins_job: 
+app_version: 0.0.1-SNAPSHOT
+Built-By: Vanina Bermejo
+jenkins_build_number: 
+git_branch: 
+git_url: 
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+
